@@ -1,0 +1,1 @@
+# slide scanner to czi
